@@ -40,6 +40,52 @@ for x in range(0,2):
 3. пробуем несколько вариантов,берем нужный,учитываем вес кажого элемента(даем тяжелому элементу количество бит поменьше)
 <img width="1474" alt="Снимок экрана 2024-04-20 в 17 31 52" src="https://github.com/arsenmarsen/ege/assets/167619428/61b88af9-c322-4ad1-9668-07cd893e91e2">
 
+### Задание номер 8 - подсчет комбинаций 
+1. x система - цифры от нуля до x-1
+2. перевод десятичной системы в x нужно написать функцию:
+```
+def convert_to(number, base, upper=False):
+    digits = '0123456789abcdefghijklmnopqrstuvwxyz'
+    if base > len(digits): return None
+    result = ''
+    while number > 0:
+        result = digits[number % base] + result
+        number //= base
+    return result.upper() if upper else result
+```
+3. 8миричная - oct(x),hex(x)
+
+Код решения
+```
+def convert_to(number, base, upper=False):
+    digits = '0123456789abcdefghijklmnopqrstuvwxyz'
+    if base > len(digits): return None
+    result = ''
+    while number > 0:
+        result = digits[number % base] + result
+        number //= base
+    return result.upper() if upper else result
+    
+g = 0
+for a in range(16807,117649):
+  astr = convert_to(a, 7)
+  if astr.count('0') == 1:
+    #print(astr)
+    ch = 0
+    ch += astr.count('2')
+    ch += astr.count('4')
+    ch += astr.count('6')
+
+    if ch%2 == 0:
+      #print(astr)
+      #print(ch)
+      g += 1
+
+print(g)
+```
+
+
+
 
 
 
