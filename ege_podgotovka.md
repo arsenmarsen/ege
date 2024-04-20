@@ -57,6 +57,8 @@ def convert_to(number, base, upper=False):
 
 Код решения
 ```
+// Определите количество шестизначных семеричных чисел, в записи которых ровно одна цифра 0, а количество остальных чётных цифр чётно.
+
 def convert_to(number, base, upper=False):
     digits = '0123456789abcdefghijklmnopqrstuvwxyz'
     if base > len(digits): return None
