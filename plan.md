@@ -1,21 +1,21 @@
 ### Вэбинары от яндекса по ЕГЭ которые надо посмотреть
 
-Тут страничка с анонсами: https://education.yandex.ru/ege/go/webinars?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327
+Тут страничка с анонсами: [страничка](https://education.yandex.ru/ege/go/webinars?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327)
 
 1) Тут про эксель
-https://my.mts-link.ru/44081476/1861904067/record-new/2144694736?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327
+[про эксель](https://my.mts-link.ru/44081476/1861904067/record-new/2144694736?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327)
 
 2) Тут программист решает вариант егэ
-https://my.mts-link.ru/44081476/1351303287/record-new/2039677592?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327
+[решение одного врианта](https://my.mts-link.ru/44081476/1351303287/record-new/2039677592?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327)
 
 3) Терия игр - задания 19-21 на питоне
-https://my.mts-link.ru/44081476/988163085/record-new/1401859130?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327
+[теория игр - 19-21 задания](https://my.mts-link.ru/44081476/988163085/record-new/1401859130?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327)
 
 4) Разбор пробного варианта егэ
-https://my.mts-link.ru/44081476/1105959039/record-new/926340779?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327
+[подробный разбор варината егэ](https://my.mts-link.ru/44081476/1105959039/record-new/926340779?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327)
 
 5) Рекурсия - задание 16
-https://my.mts-link.ru/44081476/1777022189/record-new/1917894986?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327
+[рекрсия - 16 задание](https://my.mts-link.ru/44081476/1777022189/record-new/1917894986?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327)
 
 6) Динамическое программирование и строки - будет 14 мая
 
