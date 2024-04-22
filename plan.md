@@ -1,9 +1,9 @@
 ### Вэбинары от яндекса по ЕГЭ которые надо посмотреть
 
-Тут страничка с анонсами: [страничка](https://education.yandex.ru/ege/go/webinars?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327)
+Тут страничка с анонсами: [тыц](https://education.yandex.ru/ege/go/webinars?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327)
 
 1) Тут про эксель
-[про эксель](https://my.mts-link.ru/44081476/1861904067/record-new/2144694736?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327)
+[тыц](https://my.mts-link.ru/44081476/1861904067/record-new/2144694736?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327)
 
 2) Тут программист решает вариант егэ
 [решение одного врианта](https://my.mts-link.ru/44081476/1351303287/record-new/2039677592?utm_campaign=ege&utm_content=email_puids&utm_medium=email&utm_source=crm&utm_term=20240327)
